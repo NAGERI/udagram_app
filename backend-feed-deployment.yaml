@@ -14,7 +14,7 @@ spec:
         app: backend-feed
     spec:
       containers:
-        - name: backend-api-feed
+        - name: backend-feed
           image: onealla/udagram-api-feed:v1
           imagePullPolicy: IfNotPresent
           resources:

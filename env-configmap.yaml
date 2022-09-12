@@ -11,4 +11,4 @@ data:
   AWS_BUCKET: mybucket130421371539
   AWS_REGION: us-east-1
   JWT_SECRET: testingSec3rted.
-  URL: http://localhost:8100
+  URL: https://661B96739DBDBBC6F7F8E0F330ABBC91.gr7.us-east-1.eks.amazonaws.com:8100 # API server endpoint on EKS
